@@ -26,3 +26,7 @@
    sudo nano /var/www/html/index.html
 14. Opened browser and accessed:
    http://<public-ip>
+
+   ## Roadmap.sh Project
+This project is based on:
+https://roadmap.sh/projects/ec2-instance
