@@ -8,5 +8,6 @@
 - Deployed static website
 
 ### Result
+Screenshots added in screenshot folder named website.png
 
 ![Website Output](Screenshots/website.png)
