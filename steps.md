@@ -25,3 +25,15 @@
    sudo nano /var/www/html/index.html
 14. Opened browser and accessed:
    http://<public-ip>
+
+
+   08/03/2026
+
+   I was busy while travelling because i am having my second sem in poland so i was unable to update github.
+
+   today i tried to host a website on s3 but some how i was unable to do that 
+   steps i tried are
+   1. created a bucket
+   2. upload a html file in it
+   3. now i got stuked in CLI
+   4. 
